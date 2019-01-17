@@ -1,2 +1,2 @@
-# Glitch
-codes for computing neutron-star glitch
+# Qusi-Normal Modes
+codes for computing neutron-star eigen oscillation
